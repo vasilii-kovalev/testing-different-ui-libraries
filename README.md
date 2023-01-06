@@ -46,3 +46,7 @@ For each page there are two tests:
 - [React Bootstrap](https://react-bootstrap.github.io/) [[code](./src/pages/bootstrap.tsx)] [[tests](./src/pages/bootstrap.test.tsx)]
 - [Material UI](https://mui.com/) [[code](./src/pages/material-ui.tsx)] [[tests](./src/pages/material-ui.test.tsx)]
 - [UUI](https://uui.epam.com/) [[code](./src/pages/uui.tsx)] [[tests](./src/pages/uui.test.tsx)]
+
+## Mentioned in
+
+- [Improve components testability](https://github.com/epam/UUI/issues/925)
